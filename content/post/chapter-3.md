@@ -6,4 +6,4 @@ tags: []
 title: "Chapter III: Whinnie"
 ---
 
-I met my cousin, Whinnie!
+My cousin, Whinnie!
