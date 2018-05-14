@@ -1,8 +1,9 @@
 ---
-date: 2018-05-13T17:25:05-04:00
-description: "Bonfire"
-featured_image: "/images/Bonfire.jpg"
+date: 2018-04-07T11:30:32-04:00
+description: "Chicago Visit"
+featured_image: "/images/twd_scott.jpg"
 tags: []
-title: "Chapter VI: Bonfire"
+title: "Chapter VI: Chicago Visit"
 ---
-I went to a bonfire! I met lots of new friends! They were having a great time and I had lots of fun watching them.
+
+I got a chance to go back and play with Winnie while my family met some of The Walking Dead cast.
