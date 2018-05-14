@@ -5,4 +5,4 @@ featured_image: "/images/Bonfire.jpg"
 tags: []
 title: "Chapter VI: Bonfire"
 ---
-I went to a bonfire! I met lots of new friends!
+I went to a bonfire! I met lots of new friends! They were having a great time and I had lots of fun watching them.

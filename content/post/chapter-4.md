@@ -1,7 +1,7 @@
 ---
 date: 2018-03-26T19:30:48-04:00
-description: "New Home"
-featured_image: ""
+description: "Sister"
+featured_image: "/images/sister.jpg"
 tags: ["scene"]
 title: "Chapter IV: New Home"
 ---
