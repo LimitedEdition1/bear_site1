@@ -5,4 +5,4 @@ featured_image: "/images/msuBk.jpg"
 tags: []
 title: "Chapter VIII: MSU Spartans"
 ---
-I went to a big campus and lots of fun walking around. Got my picture with a campus police car!
+I went to a big campus and had lots of fun walking around. Got my picture with a campus police car!
