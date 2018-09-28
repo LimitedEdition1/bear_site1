@@ -5,4 +5,4 @@ featured_image: ""
 tags: []
 title: "Chapter IX: My operation."
 ---
-Well I don't know what happened. I was feeling fine, and then woke up from a nap to find that I missing some body parts and wearing a weird hat. 
+Well I don't know what happened. I was feeling fine, and then woke up from a nap to find that I am missing some of my favorite body parts and wearing a weird hat. O.o
