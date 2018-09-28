@@ -1,7 +1,7 @@
 ---
 date: 2018-09-26T17:25:05-04:00
 description: "Snip"
-featured_image: ""
+featured_image: "/images/bear_hat.jpg"
 tags: []
 title: "Chapter IX: My operation."
 ---
