@@ -7,5 +7,5 @@ featured_image: false
 
 I'm a F1B Mini Goldendoodle.<br>
 Born on January 10, 2018 in the Chicago suburbs.<br>
-I was adopted on March 25th, 2018 and moved in with my new family in East Lansing, Michigan. 
+I was adopted on March 25th, 2018 and moved in with my new family in Michigan. 
 
